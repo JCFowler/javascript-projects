@@ -1,0 +1,1 @@
+This is a collection of small Javascript projects from different tutorials.
